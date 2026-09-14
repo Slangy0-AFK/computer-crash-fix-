@@ -4,6 +4,15 @@
 
 This is a small helper for jobs that make a computer freeze, slow down, or close unexpectedly because too much work is being done at the same time.
 
+## Download
+
+Users can download and use this project from GitHub:
+
+- Select **Code**, then **Download ZIP** to download it without Git; or
+- use `git clone https://github.com/Slangy0-AFK/computer-crash-fix-.git` to download it with Git.
+
+After downloading, open a terminal in the extracted project folder and follow the application or testing steps below. Python 3 is required.
+
 ## What it does
 
 You enter an estimate of the job size. The helper recommends:
